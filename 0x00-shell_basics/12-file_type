@@ -1,2 +1,2 @@
 #!/bin/bash
- mktemp /tmp/iamfile
+file /tmp/iamafile
